@@ -19,10 +19,10 @@
   "homepage": "https://github.com/litecoin-project/litecoin.org#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^3.1.1",
+    "gulp-autoprefixer": "^6.0.0",
     "gulp-clean-css": "^2.0.13",
     "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.1.0"
+    "gulp-sass": "^5.0.0"
   },
   "dependencies": {
     "jquery.browser": "^0.1.0"
